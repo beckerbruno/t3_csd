@@ -89,13 +89,13 @@ The core interrupt controller has some register addresses defined below.
 | Register name			| Address		|
 | :---------------------------- | :-------------------- |
 | IRQ_VECTOR			| 0xf0000000		|
-| IRQ_CAUSE			| 0xf0000010		|
-| IRQ_MASK			| 0xf0000020		|
+| IRQ_CAUSE				| 0xf0000010		|
+| IRQ_MASK				| 0xf0000020		|
 | IRQ_STATUS			| 0xf0000030		|
-| IRQ_EPC			| 0xf0000040		|
-| EXTIO_IN			| 0xf0000080		|
-| EXTIO_OUT			| 0xf0000090		|
-| DEBUG				| 0xf00000d0		|
+| IRQ_EPC				| 0xf0000040		|
+| EXTIO_IN				| 0xf0000080		|
+| EXTIO_OUT				| 0xf0000090		|
+| DEBUG					| 0xf00000d0		|
 
 **Peripherals**
 
