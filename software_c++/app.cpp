@@ -31,7 +31,7 @@ int main(void) {
 
     while (1) {
         display_background(BLACK);
-        // display: 640x480
+        // display: 300x218
         // margem: 5 pixels
         // limites verticais: margem + 20 até VGA_HEIGHT / 3
         // Limites horizontais: 2margem até VGA_WIDTH - margem
